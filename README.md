@@ -112,8 +112,8 @@ The project can be further improved using:
 
 ## Author
 
-**Hemant Kumar**  
-Life Sciences  
+**Hemant Kumar Halba**  
+Branch-Life Sciences  
 National Institute of Technology Rourkela (NIT Rourkela)
 
 ## Project Domain
